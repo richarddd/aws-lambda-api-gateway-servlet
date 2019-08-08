@@ -3,7 +3,7 @@
 This util allows for mapping any HttpServletRequest and HttpServletResponse to and from API gateway classes
 
 ## Installation
-1. Add Jitpack to repos in gradle.build
+1. Add Jitpack to repos in gradle.build.kts
     
     ```kotlin
     repositories {
